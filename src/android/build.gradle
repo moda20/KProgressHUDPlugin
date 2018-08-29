@@ -1,0 +1,11 @@
+
+repositories {
+    mavenCentral()
+    maven {
+        url "https://jitpack.io"
+    }
+}
+dependencies {
+   implementation 'com.kaopiz:kprogresshud:1.2.0'
+}
+

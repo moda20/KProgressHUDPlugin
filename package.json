@@ -1,0 +1,25 @@
+{
+  "name": "cordova.plugin.kprogresshud",
+  "version": "0.1.0",
+  "description": "a cordova plugin based on the Kaopiz/KprogressHUD",
+  "cordova": {
+    "id": "cordova.plugin.kprogresshud",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moda20/KProgressHUDPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "moda20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moda20/KProgressHUDPlugin/issues"
+  },
+  "homepage": "https://github.com/moda20/KProgressHUDPlugin#readme"
+}
