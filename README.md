@@ -3,6 +3,7 @@
 **Based On :** 
 KProgressHUD : https://github.com/Kaopiz/KProgressHUD
 
+![](https://raw.githubusercontent.com/Kaopiz/KProgressHUD/master/demo/screenshots/screencast.gif)
 
 **Cordova plugin : KProgressHUD** 
 
